@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Smartdata_Apc>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Core />
+            </depends>
+        </Smartdata_Apc>
+    </modules>
+</config>
